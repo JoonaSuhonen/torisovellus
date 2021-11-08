@@ -1,4 +1,12 @@
-  # torisovellus (BCI Graded Exercise)
+  # torisovellus (BCI Graded Exercise) 
+
+Group project made by me and Katja Tikkala. Torisovellus is an REST API -project that is hosted on Heroku. Here are all the links: 
+
+https://torisovellus.herokuapp.com
+
+https://github.com/KatjaTik/torisovellus (github.com)
+
+https://oamk-joona.stoplight.io/docs/torisovellus/YXBpOjIzMjU5ODY4-tori-fi-v2
 
 User registration and login /ok
 
